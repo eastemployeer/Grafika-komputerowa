@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/grafika_dywan.dir/main.cpp.o  -o grafika_dywan  -lglut -lGLU -lGL 
