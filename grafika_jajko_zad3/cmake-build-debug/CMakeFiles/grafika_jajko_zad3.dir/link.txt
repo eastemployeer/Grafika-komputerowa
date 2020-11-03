@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/grafika_jajko_zad3.dir/main.cpp.o  -o grafika_jajko_zad3  -lglut -lGLU -lGL 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kamil/CLionProjects/grafika_jajko_zad3/main.cpp
+iostream
+-
+GL/gl.h
+-
+GL/glut.h
+-
+GL/freeglut.h
+-
+vector
+-
+math.h
+-
+
