@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/grafika_jajko_swiatlo_zad4.dir/main.cpp.o  -o grafika_jajko_swiatlo_zad4  -lglut -lGLU -lGL 
