@@ -1,0 +1,3 @@
+/home/kamil/CLionProjects/grafika_jajko_tekstury_zad5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamil/CLionProjects/grafika_jajko_tekstury_zad5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamil/CLionProjects/grafika_jajko_tekstury_zad5/cmake-build-debug/CMakeFiles/grafika_jajko_tekstury_zad5.dir
